@@ -24,6 +24,7 @@ class Welcome extends CI_Controller {
 		$this->load->library('form_validation');
 		$this->load->library('DX_Auth');			
 		$this->load->helper('url');
+		
 		$this->load->helper('form');  
 		$this->config->load('asuransi');
 		$this->load->model('welcome_model');
