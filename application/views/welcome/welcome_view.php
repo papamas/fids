@@ -1,0 +1,6 @@
+<?=$header_app?>
+<?=$footer_app?>
+<?=$content?>
+<?=$menu?>
+</body>
+</html> 
